@@ -1,4 +1,6 @@
 #include <stdio.c>
+
+
 /**
  * main - Entry
  * Return: Always 0
