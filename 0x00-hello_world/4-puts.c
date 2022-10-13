@@ -1,5 +1,5 @@
+#!/bin/bash
 #include <stdio.c>
-
 
 /**
  * main - Entry
