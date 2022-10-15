@@ -2,7 +2,7 @@
 
 /**
  * main - prints alpha in lower and alpha case
- * Return; Always 0
+ * Return: Always 0
  */
 
 int main(void)
@@ -13,6 +13,7 @@ int main(void)
 		putchar (ch);
 	for (ch = 'A'; ch <= 'Z'; ch++)
 		putchar (ch);
+
 	putchar('\n');
 
 	return (0);
