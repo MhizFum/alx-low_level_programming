@@ -3,7 +3,7 @@
 /**
  * mul - multiply 2 integrs
  * @a: first int
- * @b second int
+ * @b: second int
  * Return: multiplication of a and b
  */
 
